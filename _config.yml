@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr Adrian Shatte / IT Academic"
+title                    : "Dr Adrian Shatte"
 title_separator          : "-"
 name                     : &name "Adrian Shatte"
 description              : &description "IT Academic @ Federation University"
@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Adrian Shatte"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Melbourne, Australia"
-  employer         : "Federation University"
+  bio              : "Lecturer"
+  location         : "Federation University Australia"
+  employer         : 
   googlescholar    : "https://scholar.google.com.au/citations?user=DDRMDg4AAAAJ&hl=en"
   email            :
   uri              :
