@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Context-Aware Mobile Augmented Reality for Library Management"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2013-12-01-context-aware-mobile-augmented-reality-for-library-management 
+excerpt: ''
+date: 2013-12-01
+venue: 'International Conference on Principls and Practice of Multi-Agent Systems'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-642-44927-7_41'
+citation: 'Shatte, A., Holdsworth, J., & Lee, I. (2013). &quot;Context-Aware Mobile Augmented Reality for Library Management&quot; <i>International Conference on Principles and Practice of Multi-Agent Systems</i> (pp. 510-517). Springer, Berlin, Heidelberg.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Mobile augmented reality applications aim to simplify everyday tasks by providing additional information to increase efficiency. There are many challenges facing the field, including efficient and accurate methods for providing context-awareness. It is believed that 
+research in the field of multi-agent systems can assist such applications in reducing the complexity of everyday tasks. To determine the benefits of using software agents to support mobile augmented reality, we develop a prototype titled Libagent for library management tasks. Our experimental results indicate that Libagent provides benefits to users by reducing errors.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://link.springer.com/chapter/10.1007/978-3-642-44927-7_41)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Shatte, A., Holdsworth, J., & Lee, I. (2013, December). Context-Aware Mobile Augmented Reality for Library Management. In <i>International Conference on Principles and Practice of Multi-Agent Systems</i> (pp. 510-517). Springer, Berlin, Heidelberg.
