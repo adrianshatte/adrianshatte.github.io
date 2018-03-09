@@ -6,11 +6,11 @@ excerpt: 'Mobile augmented reality applications aim to simplify everyday tasks b
 research in the field of multi-agent systems can assist such applications in reducing the complexity of everyday tasks. To determine the benefits of using software agents to support mobile augmented reality, we develop a prototype titled Libagent for library management tasks. Our experimental results indicate that Libagent provides benefits to users by reducing errors.'
 date: 2013-12-01
 venue: 'In <i>International Conference on Principls and Practice of Multi-Agent Systems</i>'
-paperurl: '<a href="https://link.springer.com/chapter/10.1007/978-3-642-44927-7_41">Download paper here</a>'
+paperurl: ''
 citation: 'Shatte, A., Holdsworth, J., & Lee, I. (2013, December). Context-Aware Mobile Augmented Reality for Library Management. In <i>International Conference on Principles and Practice of Multi-Agent Systems</i> (pp. 510-517). Springer, Berlin, Heidelberg.'
 ---
 
 
-#[Download paper here](https://link.springer.com/chapter/10.1007/978-3-642-44927-7_41)
+<!---[Download paper here](https://link.springer.com/chapter/10.1007/978-3-642-44927-7_41)--->
 
-#Recommended citation: Shatte, A., Holdsworth, J., & Lee, I. (2013, December). Context-Aware Mobile Augmented Reality for Library Management. In <i>International Conference on Principles and Practice of Multi-Agent Systems</i> (pp. 510-517). Springer, Berlin, Heidelberg.
+<!---Recommended citation: Shatte, A., Holdsworth, J., & Lee, I. (2013, December). Context-Aware Mobile Augmented Reality for Library Management. In <i>International Conference on Principles and Practice of Multi-Agent Systems</i> (pp. 510-517). Springer, Berlin, Heidelberg.--->
