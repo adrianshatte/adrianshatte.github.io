@@ -2,7 +2,7 @@
 title: "Context-Aware Mobile Augmented Reality for Library Management"
 collection: publications
 permalink: /publication/2013-12-01-context-aware-mobile-augmented-reality-for-library-management 
-excerpt: 'Mobile augmented reality applications aim to simplify everyday tasks...'
+excerpt: ''
 date: 2013-12-01
 venue: '<i>International Conference on Principls and Practice of Multi-Agent Systems</i>'
 paperurl: ''
