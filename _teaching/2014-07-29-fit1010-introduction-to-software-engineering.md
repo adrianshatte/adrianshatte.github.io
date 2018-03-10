@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Software Engineering"
+title: "FIT1010: Introduction to Software Engineering"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-07-29-fit1010-introduction-to-software-engineering
