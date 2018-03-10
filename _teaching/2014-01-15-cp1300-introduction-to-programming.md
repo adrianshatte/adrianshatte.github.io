@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Programming 2"
+title: "CP1300: Introduction to Programming 2"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-01-15-cp1300-introduction-to-programming
