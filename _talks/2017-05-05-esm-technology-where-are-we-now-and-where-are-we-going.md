@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2017-05-05
 venue: "ESM SIG, School of Psychology, Deakin University"
-date: 2012-03-01
+date: 2017-05-05
 location: "Melbourne, Victoria, Australia"
 ---
 
