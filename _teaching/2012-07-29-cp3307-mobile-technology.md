@@ -1,5 +1,5 @@
 ---
-title: "CP3307 Mobile Technology"
+title: "CP3307: Mobile Technology"
 collection: teaching
 type: "Undergraduate and postgraduate course"
 permalink: /teaching/2012-07-29-cp3307-mobile-technology
