@@ -1,7 +1,7 @@
 ---
 title: "ESM Technology: Where are we now and where are we going?"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /talks/2017-05-05
 venue: "ESM SIG, School of Psychology, Deakin University"
 date: 2017-05-05
