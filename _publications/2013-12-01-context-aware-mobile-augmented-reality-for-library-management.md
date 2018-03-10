@@ -6,7 +6,7 @@ excerpt: ''
 date: 2013-12-01
 venue: '<i>International Conference on Principals and Practice of Multi-Agent Systems</i>'
 paperurl: ''
-citation: 'Shatte, A., Holdsworth, J., & Lee, I. (2013, December). Context-Aware Mobile Augmented Reality for Library Management. In <i>International Conference on Principles and Practice of Multi-Agent Systems</i> (pp. 510-517). Springer, Berlin, Heidelberg.'
+citation: '**Shatte, A.**, Holdsworth, J., & Lee, I. (2013, December). Context-Aware Mobile Augmented Reality for Library Management. In <i>International Conference on Principles and Practice of Multi-Agent Systems</i> (pp. 510-517). Springer, Berlin, Heidelberg.'
 ---
 
 Mobile augmented reality applications aim to simplify everyday tasks by providing additional information to increase efficiency. There are many challenges facing the field, including efficient and accurate methods for providing context-awareness. It is believed that 
