@@ -13,3 +13,4 @@ I am a Lecturer in Information Technology at Federation University Australia, cu
 ## Current Projects
 * Machine learning applications for mental health
 * Topic modeling for difficult to reach groups in research
+* Multisynchronous collaboration in disaster management
