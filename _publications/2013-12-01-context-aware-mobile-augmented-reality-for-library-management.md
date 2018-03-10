@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2013-12-01-context-aware-mobile-augmented-reality-for-library-management 
 excerpt: ''
 date: 2013-12-01
-venue: '<i>International Conference on Principls and Practice of Multi-Agent Systems</i>'
+venue: '<i>International Conference on Principals and Practice of Multi-Agent Systems</i>'
 paperurl: ''
 citation: 'Shatte, A., Holdsworth, J., & Lee, I. (2013, December). Context-Aware Mobile Augmented Reality for Library Management. In <i>International Conference on Principles and Practice of Multi-Agent Systems</i> (pp. 510-517). Springer, Berlin, Heidelberg.'
 ---
