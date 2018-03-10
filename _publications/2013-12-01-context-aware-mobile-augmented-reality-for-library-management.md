@@ -13,4 +13,4 @@ citation: 'Shatte, A., Holdsworth, J., & Lee, I. (2013, December). Context-Aware
 
 <!---[Download paper here](https://link.springer.com/chapter/10.1007/978-3-642-44927-7_41)--->
 
-<!---Recommended citation: Shatte, A., Holdsworth, J., & Lee, I. (2013, December). Context-Aware Mobile Augmented Reality for Library Management. In <i>International Conference on Principles and Practice of Multi-Agent Systems</i> (pp. 510-517). Springer, Berlin, Heidelberg.--->
+<!---Recommended citation: Shatte, A., Holdsworth, J., & Lee, I. (2013, December). Context-Aware Mobile Augmented Reality for Library Management. <i>International Conference on Principles and Practice of Multi-Agent Systems</i> (pp. 510-517). Springer, Berlin, Heidelberg.--->
