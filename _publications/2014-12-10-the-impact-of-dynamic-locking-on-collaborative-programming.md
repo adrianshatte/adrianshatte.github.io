@@ -6,7 +6,7 @@ excerpt: ''
 date: 2014-12-10
 venue: '<i>Proceedings of the 25th Australasian Conference on Information Systems</i>'
 paperurl: ''
-citation: '<b>Shatte, A.</b>, Holdsworth, J., & Lee, I. (2014, December). The impact of dynamic locking on collaborative programming. <i>Proceedings of the 25th Australasian Conference on Information Systems (ACIS)</i>.'
+citation: '<b>Shatte, A.</b>, Holdsworth, J., & Lee, I. (2014). The impact of dynamic locking on collaborative programming. <i>Proceedings of the 25th Australasian Conference on Information Systems (ACIS)</i>, 8-10 December 2014, Auckland, New Zealand.'
 ---
 
 The parallel strategy of collaborative writing is commonly used by academia and industry. However, the nature of this approach may not scale to other genres of collaboration including collaborative programming. In this paper, we present a web-based prototype that 
