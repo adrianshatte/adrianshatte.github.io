@@ -1,16 +1,15 @@
 ---
 title: "Multi-synchronous collaboration between desktop and mobile users: A case study of report writing for emergency management"
 collection: publications
-permalink: /publication/2014-12-10-the-impact-of-dynamic-locking-on-collaborative-programming
+permalink: /publication/2016-05-28-multi-synchronous-collaboration-between-desktop-and-mobile-users
 excerpt: ''
-date: 2014-12-10
-venue: '<i>Proceedings of the 25th Australasian Conference on Information Systems</i>'
+date: 2016-05-08
+venue: '<i>Proceedings of the 26th Australasian Conference on Information Systems</i>'
 paperurl: ''
-citation: '<b>Shatte, A.</b>, Holdsworth, J., & Lee, I. (2014, December). The impact of dynamic locking on collaborative programming. <i>Proceedings of the 25th Australasian Conference on Information Systems (ACIS)</i>.'
+citation: '<b>Shatte, A.</b>, Holdsworth, J., & Lee, I. (2015). Multi-synchronous collaboration between desktop and mobile users: A case study of report writing for emergency management. <i>Proceedings of the 26th Australasian Conference on Information Systems (ACIS)</i>, 30 November - 4 December 2015, Adelaide, SA, Australia.'
 ---
 
-The parallel strategy of collaborative writing is commonly used by academia and industry. However, the nature of this approach may not scale to other genres of collaboration including collaborative programming. In this paper, we present a web-based prototype that 
-supports parallel programming with the use of dynamic locking, and evaluate its scalability and system usability. Our results suggest there are benefits to our approach, and we discuss the implications and future directions for research.
+The development of multi-synchronous decision support systems to facilitate collaboration between diverse users is an emerging field in emergency management. Traditionally, information management for emergency response has been a centralised effort. However, modern devices such as smartphones provide new methods for gaining real-time information about a disaster from users in the field. In this paper, we present a framework for multi-synchronous collaborative report writing in the scope of emergency management. This framework supports desktop-based users as information providers and consumers, alongside mobile users as information providers to facilitate multi-synchronous collaboration. We consider the benefits of our framework for writing collaborative Situation Reports and discuss future directions for research.
 
 <!---This paper is about the number 3. The number 4 is left for future work.--->
 
